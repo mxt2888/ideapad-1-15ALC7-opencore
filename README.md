@@ -20,7 +20,7 @@ Hackintosh EFI for Lenovo IdeaPad 1 15ALC7 using OpenCore bootloader.
 | Model            | Lenovo IdeaPad 1 15ALC7 82R4 |   ✅   |
 | CPU              | Ryzen 5 5500U                      |   ✅   |
 | GPU              | AMD Radeon Graphics                |   ✅   |
-| RAM              | 8 GB DDR4 3200MHZ (probably soldered  |   ✅   |
+| RAM              | 8 GB DDR4 3200MHZ (probably soldered)  |   ✅   |
 | Drive            | 512GB SSD M.2 2242 PCIe NVMe       |   ✅   |
 | Audio            | Realtek ALC257                     |   ✅   |
 | WiFi + Bluetooth | MediaTek MT7921 802.11AX          |   ❌   |
@@ -28,6 +28,7 @@ Hackintosh EFI for Lenovo IdeaPad 1 15ALC7 using OpenCore bootloader.
 
 ## Notes
 
+## - IF U LAUNCH DISCORD WITH GPU ACCELERATION UR HACKINTOSH WILL LAG AND A REBOOT WILL BE REQUIRED TO RENDER THE HACKINTOSH SMOOTH AGAIN.
 - I do not take responsability for broken configs if u used any configurator (OCAT and such).
 - Boot Chime is enabled by default.
 - It is prefered to use macOS versions 15 and below for stability.
