@@ -28,7 +28,8 @@ Hackintosh EFI for Lenovo IdeaPad 1 15ALC7 using OpenCore bootloader.
 
 ## Notes
 
-## - IF U LAUNCH DISCORD WITH GPU ACCELERATION UR HACKINTOSH WILL LAG AND A REBOOT WILL BE REQUIRED TO RENDER THE HACKINTOSH SMOOTH AGAIN.
+# - Tahoe is not recommended. It is not stable and is very laggy.
+# - IF U LAUNCH DISCORD WITH GPU ACCELERATION UR HACKINTOSH WILL LAG AND A REBOOT WILL BE REQUIRED TO RENDER THE HACKINTOSH SMOOTH AGAIN.
 - I do not take responsability for broken configs if u used any configurator (OCAT and such).
 - Boot Chime is enabled by default.
 - It is prefered to use macOS versions 15 and below for stability.
