@@ -1,3 +1,5 @@
+## UNZIP THE EFI.ZIP TO ACCESS THE EFI FILES
+
 # IdeaPad 1 15ALC7 Opencore
 
 Hackintosh EFI for Lenovo IdeaPad 1 15ALC7 using OpenCore bootloader.
@@ -9,7 +11,7 @@ Hackintosh EFI for Lenovo IdeaPad 1 15ALC7 using OpenCore bootloader.
 | Category                                               | Version                |
 | :----------------------------------------------------- | :--------------------- |
 | [OpenCore](https://github.com/acidanthera/OpenCorePkg) | 1.0.5                  |
-| macOS support                                          | macOS 10.5 to macOS 26 |
+| macOS support                                          | macOS 10.5 to macOS 26 (Monterey may fail to boot or bootloop after MacOS installer)|
 
 ## Hardware Specifications
 
