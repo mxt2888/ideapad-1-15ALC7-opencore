@@ -15,13 +15,13 @@ Hackintosh EFI for Lenovo IdeaPad 3 15ALC6 using OpenCore bootloader.
 
 | Category         | Part                               | Status |
 | :--------------- | :--------------------------------- | :----: |
-| Model            | Lenovo IdeaPad 3 15ALC6 82KU01ATPH |   ✅   |
-| CPU              | Ryzen 7 5700U                      |   ✅   |
+| Model            | Lenovo IdeaPad 1 15ALC7 82R4 |   ✅   |
+| CPU              | Ryzen 5 5500U                      |   ✅   |
 | GPU              | AMD Radeon Graphics                |   ✅   |
-| RAM              | 20GB (4GB soldered + 16GB SODIMM)  |   ✅   |
+| RAM              | 8 GB DDR4 3200MHZ (probably soldered  |   ✅   |
 | Drive            | 512GB SSD M.2 2242 PCIe NVMe       |   ✅   |
 | Audio            | Realtek ALC257                     |   ✅   |
-| WiFi + Bluetooth | Qualcomm Atheros QCA6174           |   ❌   |
+| WiFi + Bluetooth | MediaTek MT7921 802.11AX          |   ❌   |
 | Touchpad         | MSFT0001:00 06CB:CE2D              |   ✅   |
 
 ## Notes
