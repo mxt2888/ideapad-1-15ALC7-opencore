@@ -1,6 +1,6 @@
 # IdeaPad 3 15ALC6 Opencore
 
-Hackintosh EFI for Lenovo IdeaPad 3 15ALC6 using OpenCore bootloader.
+Hackintosh EFI for Lenovo IdeaPad 1 15ALC7 using OpenCore bootloader.
 
 ![Hackintosh Screenshot](images/screenshot.png)
 
@@ -26,6 +26,8 @@ Hackintosh EFI for Lenovo IdeaPad 3 15ALC6 using OpenCore bootloader.
 
 ## Notes
 
+- I do not take responsability for broken configs if u used any configurator (OCAT and such).
+- Boot Chime is enabled by default.
 - It is prefered to use macOS versions 15 and below for stability.
 - Add `alcid=101` to `boot-args` for functional audio input and output.
 - Use `MacBookPro16,3` (macOS 15 and below) or `MacBookPro16,2` (macOS 26) [SMBIOS](https://github.com/corpnewt/GenSMBIOS).
