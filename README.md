@@ -20,7 +20,7 @@ Hackintosh EFI for Lenovo IdeaPad 1 15ALC7 using OpenCore bootloader.
 | Model            | Lenovo IdeaPad 1 15ALC7 82R4 |   ✅   |
 | CPU              | Ryzen 5 5500U                      |   ✅   |
 | GPU              | AMD Radeon Graphics                |   ✅   |
-| RAM              | 8 GB DDR4 3200MHZ (probably soldered)  |   ✅   |
+| RAM              | 8 GB DDR4 3200MHZ (soldered & upgradable to 16 with a SODIMM stick)  |   ✅   |
 | Drive            | 512GB SSD M.2 2242 PCIe NVMe       |   ✅   |
 | Audio            | Realtek ALC257                     |   ✅   |
 | WiFi + Bluetooth | MediaTek MT7921 802.11AX          |   ❌   |
@@ -39,3 +39,4 @@ Hackintosh EFI for Lenovo IdeaPad 1 15ALC7 using OpenCore bootloader.
 - The built-in networking card is unsupported by MacOS.
 - You may want to change your networking card or buy a USB WiFi adapter supported by [chris1111's driver](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter).
 - Set graphics memory to `2GB` through BIOS to avoid stutters.
+- Apple removed AppleHDA in MacOS 26 but it can be restored using [AppleHDA back on MacOS 26](https://github.com/perez987/AppleHDA-back-on-macOS-26-Tahoe) or you will only get audio with HDMI or USB audio devices.
