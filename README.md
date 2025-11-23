@@ -28,6 +28,7 @@ Hackintosh EFI for Lenovo IdeaPad 1 15ALC7 using OpenCore bootloader.
 
 ## Notes
 
+# Due to github's 100 files per upload limit you have to add manually the Resources folder from [OpenCorePKG](https://github.com/acidanthera/OpenCorePkg)
 # - Tahoe is not recommended. It is not stable and is very laggy.
 # - IF U LAUNCH DISCORD WITH GPU ACCELERATION UR HACKINTOSH WILL LAG AND A REBOOT WILL BE REQUIRED TO RENDER THE HACKINTOSH SMOOTH AGAIN.
 - I do not take responsability for broken configs if u used any configurator (OCAT and such).
